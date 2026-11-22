@@ -1,0 +1,17 @@
+{
+  "name": "Jusqu'au premier matin",
+  "short_name": "Premier matin",
+  "description": "Jeu de survie narrative en douze actes. Fiction interactive non officielle.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#141c24",
+  "theme_color": "#16202c",
+  "icons": [
+    { "src": "./images/icone-partage-512.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" },
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

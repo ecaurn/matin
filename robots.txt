@@ -1,0 +1,5 @@
+# Jusqu'au premier matin — jeu statique, sans compte ni zone privée.
+User-agent: *
+Allow: /
+# Pas de sitemap : le jeu tient sur une seule URL (l'état vit dans `?acte=`,
+# qui n'est pas une page indexable). Un sitemap d'une URL n'apporte rien.
